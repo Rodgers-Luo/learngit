@@ -1,1 +1,3 @@
 hello, this is new license.
+
+This is new version for github.
